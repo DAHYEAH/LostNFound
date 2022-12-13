@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1155" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/drawable/ic_camera.xml" value="0.195" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1035" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/drawable/ic_location.xml" value="0.1035" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.213" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_camera.xml" value="0.1" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_find_detail.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_gallery.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_google_map.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_google_map_all.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_info_window.xml" value="0.29607250755287007" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_login.xml" value="0.152" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_lost.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_member_init.xml" value="0.176" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_mypage.xml" value="0.18596491228070175" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_password_reset.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_register.xml" value="0.176" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/activity_write_post.xml" value="0.1" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/find_list.xml" value="0.264" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_camera2_basic.xml" value="0.12982456140350876" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_dashboard.xml" value="0.176" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_find.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_find_detail.xml" value="0.15311004784688995" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_find_google_map.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_find_write.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_gallery.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_lost.xml" value="0.176" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_lost_detail.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_lost_google_map.xml" value="0.5042105263157894" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_lost_write.xml" value="0.25263157894736843" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/fragment_notifications.xml" value="0.20463320463320464" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/item_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/layout/lost_list.xml" value="0.1" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.213" />
+        <entry key="..\:/Users/dian3/AndroidStudioProjects/LostNFound/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.213" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

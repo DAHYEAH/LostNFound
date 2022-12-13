@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.lostnfound.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.lostnfound.ui.home.HomeFragment"
+        android:label="Lost N Found"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_navigation_home_to_navigation_lost"
+            app:destination="@+id/navigation_lost"/>
+        <action
+            android:id="@+id/action_navigation_home_to_navigation_find"
+            app:destination="@+id/navigation_find"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.lostnfound.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_lost"
+        android:name="com.example.lostnfound.ui.lost.list.LostFragment"
+        android:label="분실물 게시판"
+        tools:layout="@layout/fragment_lost">
+        <action
+            android:id="@+id/action_navigation_lost_to_navigation_lost_write"
+            app:destination="@+id/navigation_lost_write">
+        </action>
+        <action
+            android:id="@+id/action_navigation_lost_to_navigation_lost_detail"
+            app:destination="@+id/navigation_lost_detail">
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_lost_write"
+        android:name="com.example.lostnfound.ui.lost.write.LostWriteFragment"
+        android:label="분실물 게시글 쓰기"
+        tools:layout="@layout/fragment_lost_write">
+        <action
+            android:id="@+id/action_navigation_lost_write_to_navigation_lost"
+            app:destination="@+id/navigation_lost">
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_lost_detail"
+        android:name="com.example.lostnfound.ui.lost.detail.LostDetailFragment"
+        android:label="분실물 게시글 상세보기"
+        tools:layout="@layout/fragment_lost_detail">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_find"
+        android:name="com.example.lostnfound.ui.find.list.FindFragment"
+        android:label="습득물 게시판"
+        tools:layout="@layout/fragment_find">
+        <action
+            android:id="@+id/action_navigation_find_to_navigation_find_write"
+            app:destination="@+id/navigation_find_write">
+        </action>
+        <action
+            android:id="@+id/action_navigation_find_to_navigation_find_detail"
+            app:destination="@+id/navigation_find_detail">
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_find_write"
+        android:name="com.example.lostnfound.ui.find.write.FindWriteFragment"
+        android:label="습득물 게시글 쓰기"
+        tools:layout="@layout/fragment_find_write">
+        <action
+            android:id="@+id/action_navigation_find_write_to_navigation_find"
+            app:destination="@+id/navigation_find">
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_find_detail"
+        android:name="com.example.lostnfound.ui.find.detail.FindDetailFragment"
+        android:label="습득물 게시글 상세보기"
+        tools:layout="@layout/fragment_find_detail">
+    </fragment>
+</navigation>

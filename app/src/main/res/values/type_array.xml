@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    String[] items = {"카드","지갑","이어폰","휴대폰","가방","책","옷","직접입력"};
+    <string-array name="type_array">
+        <item>직접입력</item>
+        <item>카드</item>
+        <item>지갑</item>
+        <item>이어폰</item>
+        <item>휴대폰</item>
+        <item>가방</item>
+        <item>책</item>
+        <item>옷</item>
+    </string-array>
+</resources>
