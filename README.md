@@ -1,5 +1,17 @@
 ﻿# LOST N FOUND 
 #### 대학교 캠퍼스 내 분실물/습득물을 포스팅하고, 지도에 습득물 현황을 보여주는 앱
+'''
+3-1학기 모바일 컴퓨팅과 응용 수업 텀 프로젝트 &nbsp;
+
+참여 기간 : 2022.03.02 ~ 2022.05.31
+'''
+
+---
+### 시스템구조
+<img src="https://github.com/DAHYEAH/LostNFound/assets/120447438/b07c1515-4bd7-426f-9e44-e465203ea6ac" width="300" height="100"/>
+
+---
+### 결과
 #### 1. 로그인 & 회원가입
 <img src="https://github.com/DAHYEAH/LostNFound/assets/120447438/f268abf9-54fd-4e8f-ae9a-3ae46636fb14" width="200" height="400"/>
 <img src="https://github.com/DAHYEAH/LostNFound/assets/120447438/cc8a01d0-bc01-4180-9946-b5eb94955b4d" width="200" height="400"/>
@@ -34,7 +46,7 @@
 
 #### 6. 습득물 게시판
    
-   <img src="https://github.com/DAHYEAH/LostNFound/assets/120447438/e542287d-7d04-4097-ab95-ec2ef7ccd8ef" width="600" height="400"/>
+   <img src="https://github.com/DAHYEAH/LostNFound/assets/120447438/e542287d-7d04-4097-ab95-ec2ef7ccd8ef" width="700" height="400"/>
 
 &nbsp;
 
@@ -43,3 +55,4 @@
    <img src="https://github.com/DAHYEAH/LostNFound/assets/120447438/14ad2947-93f9-4317-a20c-3684682309d3" width="600" height="400"/>
 
 &nbsp;
+---
